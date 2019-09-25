@@ -29,10 +29,10 @@ Used to scrape weather data for each of the counties. This script was borrowed a
 
 ### CombineWeatherFiles.ipynb
 Used to combine the individual weather files for each county. Steps include:
-* GEtting a list of local pkl files
+* Getting a list of local pkl files
 * Concatenating relevant files
 
 ## Extras
-### Tableau EDA Dashboard: Coming Soon!
+### Tableau EDA Dashboard: [HERE](https://public.tableau.com/profile/danielo.bennett#!/vizhome/NYS-Car_Accident_Dashboard/Dashboard2?publish=yes)
 ### Blog Post: Coming Soon!
 
