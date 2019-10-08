@@ -1,4 +1,4 @@
-# Project McNulty: Predicting Car Accident Injuries in New York State 
+# Predicting Car Accident Injuries in New York State 
 
 This project is a classification based modeling project to predict whether or not an injury will occur from a car crash. The data used is a list of vehicle accidents that occurred in New York State from 2014-2016. The data are sourced from [Kaggle](https://www.kaggle.com/new-york-state/nys-motor-vehicle-crashes-and-insurance-reduction) (motor-vehicle-crashes-case-information-three-year-window.csv specifically) 
 
